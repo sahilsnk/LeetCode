@@ -5,6 +5,6 @@ public class Main {
         //CheckIfaWordOccursAsaPrefixofAnyWordinaSentence checker = new CheckIfaWordOccursAsaPrefixofAnyWordinaSentence();
         DefusetheBomb checker = new DefusetheBomb();
 
-        System.out.println(Arrays.toString(checker.decrypt(new int[]{5,7,1,4}, 3)));
+        System.out.println(Arrays.toString(checker.decrypt(new int[]{2,4,9,3}, -2)));
     }
 }
