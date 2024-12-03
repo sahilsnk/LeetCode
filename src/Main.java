@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        PlusOne checker = new PlusOne();
+        AddingSpacestoaString checker = new AddingSpacestoaString();
 
-        System.out.println(Arrays.toString(checker.plusOne(new int[]{2,9,9,3,9})));
+        System.out.println(Arrays.toString(new String[]{checker.addSpaces("icodeinpython", new int[]{1, 5, 7, 9})}));
     }
 }
