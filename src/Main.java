@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        CheckIfNandItsDoubleExist checker = new CheckIfNandItsDoubleExist();
+        MovePiecestoObtainaString checker = new MovePiecestoObtainaString();
 
-        System.out.println(Arrays.toString(new boolean[]{checker.checkIfExist(new int[]{-2,0,10,-19,4,6,-8})}));
+        System.out.println(Arrays.toString(new boolean[]{checker.canChange("_L__R__R_","L______RR")}));
     }
 }
