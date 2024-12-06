@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        MovePiecestoObtainaString checker = new MovePiecestoObtainaString();
+        MaximumNumberofIntegerstoChooseFromaRangeI checker = new MaximumNumberofIntegerstoChooseFromaRangeI();
 
-        System.out.println(Arrays.toString(new boolean[]{checker.canChange("_L__R__R_","L______RR")}));
+        System.out.println(Arrays.toString(new int[]{checker.maxCount(new int[]{11}, 7, 50)}));
     }
 }
