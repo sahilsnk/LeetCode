@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11fd428-c7b3-47a3-8c6c-5e36fffbf939" name="Changes" comment="seventh">
-      <change afterPath="$PROJECT_DIR$/src/MaximumNumberofIntegerstoChooseFromaRangeI.java" afterDir="false" />
+    <list default="true" id="a11fd428-c7b3-47a3-8c6c-5e36fffbf939" name="Changes" comment="ninth">
+      <change afterPath="$PROJECT_DIR$/src/MinimumLimitofBallsinaBag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733414855707</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="eighth">
+      <created>1733497127558</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733497127558</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ninth">
+      <created>1733502422657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733502422657</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +153,8 @@
     <MESSAGE value="fifth" />
     <MESSAGE value="sixth" />
     <MESSAGE value="seventh" />
-    <option name="LAST_COMMIT_MESSAGE" value="seventh" />
+    <MESSAGE value="eighth" />
+    <MESSAGE value="ninth" />
+    <option name="LAST_COMMIT_MESSAGE" value="ninth" />
   </component>
 </project>
