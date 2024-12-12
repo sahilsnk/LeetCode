@@ -3,8 +3,9 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        MaximumNumberofIntegerstoChooseFromaRangeI checker = new MaximumNumberofIntegerstoChooseFromaRangeI();
+        TakeGiftsFromtheRichestPile checker = new TakeGiftsFromtheRichestPile();
+        int[] nums = {25,64,9,4,100};
+        System.out.println(Arrays.toString(new int[]{(int) checker.pickGifts(nums,4)}));
 
-        System.out.println(Arrays.toString(new int[]{checker.maxCount(new int[]{11}, 7, 50)}));
     }
 }
