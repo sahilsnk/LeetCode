@@ -3,9 +3,9 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        FindScoreofanArrayAfterMarkingAllElements checker = new FindScoreofanArrayAfterMarkingAllElements();
-        int[] nums = {2,5,6,6,10};
-        System.out.println(Arrays.toString(new int[]{(int) checker.findScore(nums)}));
+        ContinuousSubarrays checker = new ContinuousSubarrays();
+        int[] nums = {65,66,67,66,66,65,64,65,65,64};
+        System.out.println(Arrays.toString(new int[]{(int) checker.continuousSubarrays(nums)}));
 
     }
 }
