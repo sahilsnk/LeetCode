@@ -1,8 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        CheckifaParenthesesStringCanBeValid checker = new CheckifaParenthesesStringCanBeValid();
+        MinimumOperationstoExceedThresholdValueII checker = new MinimumOperationstoExceedThresholdValueII();
 
-        System.out.println(checker.canBeValid(")(","00"));
+        int[] nums = {42,46};
+        System.out.println(checker.minOperations(nums,42));
     }
 }
